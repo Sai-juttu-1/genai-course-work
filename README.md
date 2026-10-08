@@ -1,6 +1,6 @@
 # Generative AI & Agentic Systems Engineering Lab
 
-[![CI](https://github.com/lowkey999-netizen/genai-course-work/actions/workflows/ci.yml/badge.svg)](https://github.com/lowkey999-netizen/genai-course-work/actions/workflows/ci.yml)
+[![CI](https://github.com/Sai-juttu-1/genai-work/actions/workflows/main.yml/badge.svg)](https://github.com/Sai-juttu-1/genai-work/actions/workflows/main.yml)
 ![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-package%20management-DE5FE9?style=flat)
 ![pytest](https://img.shields.io/badge/tested%20with-pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
